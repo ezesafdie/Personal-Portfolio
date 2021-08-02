@@ -18,5 +18,5 @@ $asunto = 'Nueva consulta';
 
 mail($para, $asunto, utf8_decode($mensaje), $header);
 
-header("Location:http://sznet.com.ar/ezequiel/");
+header("Location:http://sznet.com.ar/ezequiel/assets/languages/spanish.html");
 ?>
