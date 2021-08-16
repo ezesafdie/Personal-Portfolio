@@ -886,6 +886,10 @@ button {
   justify-self: center;
 }
 
+.portfolio__img--spliter {
+  width: 700px;
+}
+
 .portfolio__title {
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-0-5);
